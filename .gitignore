@@ -1,2 +1,6 @@
 .DS_Store
 .remember/
+*.log
+node_modules/
+.env
+.env.*
